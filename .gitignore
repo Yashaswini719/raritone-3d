@@ -1,0 +1,15 @@
+
+.env
+*.key
+__pycache__/
+*.pyc
+
+# Temporary files
+*.tmp
+*.log
+
+# Private/generated 3D assets
+generated/
+validated/
+rejected/
+approved/
